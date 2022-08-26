@@ -13,3 +13,4 @@ Use with Cordova / Phonegap to create mobile apps for iOS & Androids
 Make mobile apps with Webview
 Use in your PWA projects
 Do whatever you like.
+![alt text](https://camo.envatousercontent.com/ebf9c32be8e38cc869670be3b4e942df58f64e15/68747470733a2f2f6272616768657273747564696f2e636f6d2f63646e2f6d6f62696c656b69742f6d6f62696c6575696b69742e676966)
